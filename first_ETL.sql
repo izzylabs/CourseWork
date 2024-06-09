@@ -137,7 +137,7 @@ $$ LANGUAGE plpgsql;
 -- Call the function
 SELECT load_data_from_csv('C:/Users/dasha/Documents/Epam/Databases/CourseWork/file1.csv', 'C:/Users/dasha/Documents/Epam/Databases/CourseWork/file2.csv');
 
-SELECT * FROM Categories
+SELECT * FROM categories
 SELECT * FROM customers
 SELECT * FROM employees
 SELECT * FROM inventory
