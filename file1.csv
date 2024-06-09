@@ -1,0 +1,95 @@
+﻿category_name, category_description,product_name, product_description,price,stock_quantity, inventory_quantity, location, order_date,total_amount, shipment_date,status
+Acrylic Paints, High-quality paints for artists of all skill levels., Classic Acrylics Set, Professional acrylic paint set for artists.,25.99,100,100, Warehouse A,1/1/2024,2599,1/2/2024, Shipped
+Watercolor Sets, Essential sets for beginners and professionals., Watercolor Professional Kit, Complete set for watercolor artists,45.95,50,50, Warehouse B,1/3/2024,2297.5,1/4/2024, Pending
+Oil Paints, Richly pigmented paints for depth and texture., Premium Oil Paints, Oil paints with exceptional vibrancy,55.5,30,30, Warehouse C,1/5/2024,1665,1/6/2024, Delivered
+Drawing Pencils, Precision tools for sketching and shading., Graphite Sketch Set, High-grade graphite pencils for sketching,12.95,200,200, Warehouse A,1/7/2024,2590,1/8/2024, Shipped
+Canvas Supplies, Variety of sizes and textures for all media., Stretched Canvas 16x20, Pre-stretched canvas ready to paint,15.99,150,150, Warehouse B,1/9/2024,2398.5,1/10/2024, Pending
+Brush Sets, Versatile brushes for different painting techniques., Detail Brush Pack, Fine brushes for detailed painting work,22.95,55,55, Warehouse C,1/11/2024,1261.75,1/12/2024, Delivered
+Sculpting Tools, Durable tools for modeling and pottery work., Pottery Starter Kit, Complete kit for beginning potters,89.95,40,40, Warehouse A,1/13/2024,3598,1/14/2024, Shipped
+Art Paper," High-grade papers for pastels, inks, and printmaking.", Artist's Sketchbook, High-quality paper for drawing and sketching,9.99,200,200, Warehouse B,1/15/2024,1998,1/16/2024, Pending
+Easels, Sturdy and portable easels for studio and field use., Portable Wooden Easel," Lightweight, durable easel for artists on the move",22.99,75,75, Warehouse C,1/17/2024,1724.25,1/18/2024, Delivered
+Ink Sets," Colorful inks for drawing, calligraphy, and crafting.", Sumi Ink Set, Traditional Japanese ink set for calligraphy and painting,18.99,50,50, Warehouse A,1/19/2024,949.5,1/20/2024, Shipped
+Charcoal Sets, For expressive sketches and rich black tones., Premium Charcoal Sketch Set, High-quality charcoal for professional artists,14.95,80,80, Warehouse B,1/21/2024,1196,1/22/2024, Pending
+Printmaking Supplies," Everything for etching, lithography, and screen printing.", Print Studio Kit, Comprehensive tools for screen and block printing,110,70,70, Warehouse C,1/23/2024,7700,1/24/2024, Delivered
+Art Storage Solutions, Keep your supplies and works protected and organized., Art Supply Chest, Multi-layer chest for storing various art supplies,199.99,45,45, Warehouse A,1/25/2024,8999.55,1/26/2024, Shipped
+Decorative Papers, Beautiful papers for collage and decorative arts., Patterned Paper Set, Assorted designs for scrapbooking and crafts,20.95,120,120, Warehouse B,1/27/2024,2514,1/28/2024, Pending
+Crafting Kits, Kits for all ages to inspire creativity., Home Craft Kit, Everything needed for starting crafting at home,34.99,65,65, Warehouse C,1/29/2024,2274.35,1/30/2024, Delivered
+Pastel Colors, Soft and oil pastels in a spectrum of colors., Soft Pastel Set, High-quality soft pastels for vibrant art,45.5,90,90, Warehouse A,1/31/2024,4095,2/1/2024, Shipped
+Engraving Tools, Precision tools for detailed metal and woodwork., Professional Engraving Set, Complete set of engraving tools for detailed work,65.95,70,70, Warehouse B,2/2/2024,4616.5,2/3/2024, Pending
+Graphic Tablets, Digital drawing tablets for artists and designers., Pro Graphic Tablet, High-resolution tablet for digital art and animation,299.99,30,30, Warehouse C,2/4/2024,8999.7,2/5/2024, Delivered
+Airbrushing Gear, Airbrush kits and supplies for fine art and decoration., Complete Airbrush Kit, Professional airbrush set with compressor,149.95,25,25, Warehouse A,2/6/2024,3748.75,2/7/2024, Shipped
+Art Sets, Complete art sets offering a range of media., Deluxe Art Set, Comprehensive art set with a variety of materials,189.99,50,50, Warehouse B,2/8/2024,9499.5,2/9/2024, Pending
+Modeling Clays, From air-dry clays to polymer clays for sculpting., Air-Dry Clay Set, Easy-to-use air-dry clays for crafting,22.5,100,100, Warehouse C,2/10/2024,2250,2/11/2024, Delivered
+Art Books," Books on techniques, history, and artist biographies.", Art Techniques Book, Comprehensive guide on art techniques and history,35.95,45,45, Warehouse A,2/12/2024,1617.75,2/13/2024, Shipped
+Mosaic Kits, All you need to start making beautiful mosaics., Mosaic Starter Kit, Complete kit with tiles and tools for mosaic art,29.99,60,60, Warehouse B,2/14/2024,1799.4,2/15/2024, Pending
+Gilding Supplies, Materials for adding gold leaf and other metallic finishes., Gold Leaf Kit, Premium gold leaf and tools for gilding projects,55,35,35, Warehouse C,2/16/2024,1925,2/17/2024, Delivered
+Textile Arts, Supplies for fabric painting and fiber arts., Fabric Paint Set, High-quality fabric paints for textile projects,24.99,85,85, Warehouse A,2/18/2024,2124.15,2/19/2024, Shipped
+Beading Supplies, Beads and tools for jewelry-making and decorations., Beading Kit, Assorted beads and tools for jewelry making,18.95,100,100, Warehouse B,2/20/2024,1895,2/21/2024, Pending
+Woodcraft, Tools and supplies for carving and woodworking., Wood Carving Set, High-quality tools for intricate wood carving,49.99,40,40, Warehouse C,2/22/2024,1999.6,2/23/2024, Delivered
+Metalcraft," Supplies for metalworking, including soldering and smithing.", Metal Smithing Kit, Complete set of tools for metal crafting,75.95,35,35, Warehouse A,2/24/2024,2658.25,2/25/2024, Shipped
+Glass Art Supplies, Tools and materials for stained glass and glass blowing., Stained Glass Kit, Premium tools and materials for stained glass art,99.99,20,20, Warehouse B,2/26/2024,1999.8,2/27/2024, Pending
+Photography Gear, Essential items for capturing and producing photographs., DSLR Camera Kit, High-end DSLR camera with accessories,699.99,15,15, Warehouse C,2/28/2024,10499.85,2/29/2024, Delivered
+Video Arts, Equipment for creating and editing videos and films., Film Making Kit, Comprehensive kit for amateur film makers,349.99,20,20, Warehouse A,3/1/2024,6999.8,3/2/2024, Shipped
+Animation Supplies, Materials for traditional and digital animation., Animation Starter Kit, Tools and materials for stop-motion animation,199.99,50,50, Warehouse B,3/3/2024,9999.5,3/4/2024, Pending
+Ceramics and Pottery, Everything for pottery making and ceramic art., Pottery Wheel Kit, Complete pottery wheel set with tools,599.99,10,10, Warehouse C,3/5/2024,5999.9,3/6/2024, Delivered
+Leathercraft Tools, Tools and supplies for working with leather., Leatherworking Set, High-quality tools for leather crafting,129.99,30,30, Warehouse A,3/7/2024,3899.7,3/8/2024, Shipped
+Resin Art Supplies, Resins and molds for creative and decorative projects., Resin Jewelry Kit, Complete set for making resin jewelry,79.99,40,40, Warehouse B,3/9/2024,3199.6,3/10/2024, Pending
+Art Smocks, Protective clothing for artists in all disciplines., Artist Smock, Durable smocks to protect clothing,29.99,100,100, Warehouse C,3/11/2024,2999,3/12/2024, Delivered
+Lighting for Artwork, Illumination solutions for studios and galleries., Art Studio Lamp, Adjustable lighting for art studios,149.99,25,25, Warehouse A,3/13/2024,3749.75,3/14/2024, Shipped
+Display Panels, Modular panels for exhibiting artworks and crafts., Exhibition Panel Set, Portable display panels for art shows,499.99,10,10, Warehouse B,3/15/2024,4999.9,3/16/2024, Pending
+Mounting Supplies, Materials for mounting and framing artworks., Mounting Tape, High-strength tape for mounting artwork,12.99,200,200, Warehouse C,3/17/2024,2598,3/18/2024, Delivered
+Stencil Kits, Stencils for painting and designing surfaces., Stencil Art Kit, Variety of stencils for creative projects,24.99,75,75, Warehouse A,3/19/2024,1874.25,3/20/2024, Shipped
+Art Markers, Markers for illustration and design in various colors., Professional Marker Set, High-quality markers for artists,89.99,50,50, Warehouse B,3/21/2024,4499.5,3/22/2024, Pending
+Portfolio Cases, Cases to carry and present artwork professionally., Artist Portfolio Case, Durable cases for transporting artwork,49.99,100,100, Warehouse C,3/23/2024,4999,3/24/2024, Delivered
+Cutting Tools," Precision cutters for paper, fabric, and other materials.", Precision Cutter Set, High-quality cutting tools for crafts,19.99,150,150, Warehouse A,3/25/2024,2998.5,3/26/2024, Shipped
+Adhesives, Range of glues and pastes for artistic applications., Craft Glue Set, Variety pack of strong adhesives,14.99,200,200, Warehouse B,3/27/2024,2998,3/28/2024, Pending
+Sealing Finishes, Protective sealants for preserving artwork., Matte Finish Spray, Protective matte finish for artwork,12.5,250,250, Warehouse C,3/29/2024,3125,3/30/2024, Delivered
+Sculpture Stands, Stands that support sculptures for work and display., Adjustable Sculpture Stand, Adjustable stands for displaying sculptures,74.99,50,50, Warehouse A,4/1/2024,3749.5,4/2/2024, Shipped
+Tool Organizers, Organizers to keep small tools and accessories in order., Art Tool Organizer, Multi-compartment organizers for art tools,39.99,80,80, Warehouse B,4/3/2024,3199.2,4/4/2024, Pending
+Workshop Furniture, Desks and chairs designed for artistic work., Artist Workbench, Adjustable workbenches for studios,249.99,30,30, Warehouse C,4/5/2024,7499.7,4/6/2024, Delivered
+Cleaning Supplies, Products to keep the artistic workspace neat., Studio Cleaning Kit, Complete kit for cleaning art studios,29.99,100,100, Warehouse A,4/7/2024,2999,4/8/2024, Shipped
+Drawing Boards, Large surfaces for sketching and drafting., Portable Drawing Board, Lightweight and portable drawing boards,59.99,75,75, Warehouse B,4/9/2024,4499.25,4/10/2024, Pending
+Custom Frames, Frames that can be customized for any artwork., Custom Frame Kit, DIY kits for custom framing art,39.99,120,120, Warehouse C,4/11/2024,4798.8,4/12/2024, Delivered
+Lamination Machines, Machines for laminating artworks and prints., Art Lamination Machine, Professional lamination machines for art,199.99,15,15, Warehouse A,4/13/2024,2999.85,4/14/2024, Shipped
+3D Printing Materials, Filaments and resins for 3D printing., 3D Printing Filament Set, High-quality filaments for 3D printers,49.99,40,40, Warehouse B,4/15/2024,1999.6,4/16/2024, Pending
+Gold Leaf, Gold leaf for embellishment and gilding projects., Gold Leaf Sheets, High-quality gold leaf sheets for gilding,79.99,30,30, Warehouse C,4/17/2024,2399.7,4/18/2024, Delivered
+Stencil Brushes, Brushes specifically designed for stenciling., Stencil Brush Set, Durable brushes for stencil art,19.99,100,100, Warehouse A,4/19/2024,1999,4/20/2024, Shipped
+Mixing Trays, Trays for mixing paints and other mediums., Artist Mixing Tray, Durable mixing trays for artists,9.99,150,150, Warehouse B,4/21/2024,1498.5,4/22/2024, Pending
+Palette Knives, Knives for mixing paint or applying texture., Professional Palette Knife, High-quality palette knives for artists,12.99,200,200, Warehouse C,4/23/2024,2598,4/24/2024, Delivered
+Drying Racks, Racks for drying painted and washed artworks., Art Drying Rack, Sturdy racks for drying artwork,149.99,25,25, Warehouse A,4/25/2024,3749.75,4/26/2024, Shipped
+Plan Chests, Large chests for storing plans and large papers., Artist Plan Chest, Durable chests for storing large art plans,499.99,10,10, Warehouse B,4/27/2024,4999.9,4/28/2024, Pending
+Projector for Artists, Projectors for enlarging and tracing designs., Art Projector, High-quality projectors for art studios,299.99,20,20, Warehouse C,4/29/2024,5999.8,4/30/2024, Delivered
+Art Therapy Supplies, Supplies specially curated for art therapy., Art Therapy Kit, Complete kits for art therapy sessions,59.99,50,50, Warehouse A,5/1/2024,2999.5,5/2/2024, Shipped
+Origami Papers, Papers pre-cut for origami folding art., Origami Paper Set, High-quality papers for origami art,12.99,200,200, Warehouse B,5/3/2024,2598,5/4/2024, Pending
+Art Mannequins, Posable mannequins for figure drawing., Artist Mannequin, Flexible mannequins for detailed figure drawing,19.99,100,100, Warehouse C,5/5/2024,1999,5/6/2024, Delivered
+Kilns for Pottery, High-quality kilns for firing ceramics and glass., Ceramic Kiln, Professional kilns for pottery,999.99,10,10, Warehouse A,5/7/2024,9999.9,5/8/2024, Shipped
+Art Transport Cases, Robust cases for transporting artworks safely., Transport Case, Durable cases for moving large artworks,149.99,20,20, Warehouse B,5/9/2024,2999.8,5/10/2024, Pending
+Illuminated Tables, Tables with built-in lighting for detailed work., Light Table, Illuminated tables for tracing and drawing,199.99,15,15, Warehouse C,5/11/2024,2999.85,5/12/2024, Delivered
+Art Restoration Kits, Kits for repairing and restoring older artworks., Restoration Kit, Complete kits for art restoration,89.99,30,30, Warehouse A,5/13/2024,2699.7,5/14/2024, Shipped
+Etching Presses, Presses for creating etchings and prints., Etching Press, High-quality presses for printmaking,799.99,10,10, Warehouse B,5/15/2024,7999.9,5/16/2024, Pending
+Art Aprons, Aprons designed to protect clothing during art making., Artist Apron, Durable aprons for artists,29.99,100,100, Warehouse C,5/17/2024,2999,5/18/2024, Delivered
+Calligraphy Pens, High-end pens for calligraphy and lettering., Calligraphy Pen Set, Premium calligraphy pens for artists,49.99,50,50, Warehouse A,5/19/2024,2499.5,5/20/2024, Shipped
+Artist Gloves, Gloves that protect hands and prevent smudges., Art Gloves, Non-slip gloves for artists,9.99,150,150, Warehouse B,5/21/2024,1498.5,5/22/2024, Pending
+Sketchbooks, Durable sketchbooks for all types of media., Artist Sketchbook, High-quality sketchbooks for artists,19.99,100,100, Warehouse C,5/23/2024,1999,5/24/2024, Delivered
+Decorative Stamps, Stamps for decorating scrapbooks and cards., Stamp Set, Variety of decorative stamps,14.99,120,120, Warehouse A,5/25/2024,1798.8,5/26/2024, Shipped
+Camera Stabilizers, Stabilizers for clear and stable photographic shots., Camera Stabilizer, High-quality stabilizers for cameras,199.99,20,20, Warehouse B,5/27/2024,3999.8,5/28/2024, Pending
+Chalks and Crayons, Colored chalks and crayons for vibrant designs., Chalk and Crayon Set, High-quality chalks and crayons for artists,24.99,100,100, Warehouse C,5/29/2024,2499,5/30/2024, Delivered
+UV Resin, UV-sensitive resin for jewelry and coating., UV Resin Kit, Complete kit for UV resin projects,49.99,50,50, Warehouse A,5/31/2024,2499.5,6/1/2024, Shipped
+Paint Removers, Chemicals for removing paint from brushes and surfaces., Paint Remover Set, High-quality paint removers for artists,29.99,80,80, Warehouse B,6/2/2024,2399.2,6/3/2024, Pending
+Mandala Tools, Tools specifically for creating mandala designs., Mandala Tool Set, Precision tools for mandala art,19.99,100,100, Warehouse C,6/4/2024,1999,6/5/2024, Delivered
+Fabric Dyes, Dyes for coloring textiles and fibers., Fabric Dye Kit, High-quality dyes for fabric art,34.99,70,70, Warehouse A,6/6/2024,2449.3,6/7/2024, Shipped
+Screen Printing Kits, Complete kits for starting screen printing., Screen Printing Kit, Professional screen printing kits for artists,199.99,20,20, Warehouse B,6/8/2024,3999.8,6/9/2024, Pending
+Mold Making Materials, Materials for creating molds in various shapes., Mold Making Kit, High-quality materials for mold making,89.99,30,30, Warehouse C,6/10/2024,2699.7,6/11/2024, Delivered
+Laser Cutters, Cutters for precise cutting of materials in designs., Laser Cutter, High-quality laser cutters for artists,999.99,10,10, Warehouse A,6/12/2024,9999.9,6/13/2024, Shipped
+Art Software, Software for digital art creation and editing., Art Software Suite, Professional software for digital artists,299.99,25,25, Warehouse B,6/14/2024,7499.75,6/15/2024, Pending
+Color Wheels, Tools for learning and applying color theory., Artist Color Wheel, High-quality color wheels for artists,12.99,150,150, Warehouse C,6/16/2024,1948.5,6/17/2024, Delivered
+Glazing Tools, Tools for applying glazes in pottery and ceramics., Glazing Tool Set, High-quality tools for applying glazes,24.99,80,80, Warehouse A,6/18/2024,1999.2,6/19/2024, Shipped
+Encaustic Paints, Specialty paints for hot wax painting., Encaustic Paint Set, High-quality encaustic paints for artists,49.99,50,50, Warehouse B,6/20/2024,2499.5,6/21/2024, Pending
+Sandblasting Equipment, Equipment for sandblasting glass and metal., Sandblasting Kit, Complete kit for sandblasting projects,299.99,15,15, Warehouse C,6/22/2024,4499.85,6/23/2024, Delivered
+Stone Carving Tools, Durable tools for carving stone and marble., Stone Carving Set, High-quality tools for stone carving,99.99,20,20, Warehouse A,6/24/2024,1999.8,6/25/2024, Shipped
+Vinyl Cutters, Cutters for shaping and designing vinyl materials., Vinyl Cutter, High-quality vinyl cutters for artists,499.99,10,10, Warehouse B,6/26/2024,4999.9,6/27/2024, Pending
+Art Instruction Videos, Videos for learning different art techniques., Art Instruction Video Set, Comprehensive set of instructional art videos,49.99,40,40, Warehouse C,6/28/2024,1999.6,6/29/2024, Delivered
+Paint Mediums and Additives, Additives to alter the texture and drying times of paint., Paint Mediums Set, Variety pack of paint mediums and additives,29.99,100,100, Warehouse A,6/30/2024,2999,7/1/2024, Shipped
+Pyrography Tools, Tools for decorative wood burning., Pyrography Tool Set, High-quality tools for pyrography,49.99,50,50, Warehouse B,7/2/2024,2499.5,7/3/2024, Pending
+Quilling Supplies, Supplies for the art of paper quilling., Quilling Kit, Complete set of tools and papers for quilling,19.99,100,100, Warehouse C,7/4/2024,1999,7/5/2024, Delivered
+Paper Mache Supplies, Materials for creating paper mache projects., Paper Mache Kit, High-quality materials for paper mache art,29.99,80,80, Warehouse A,7/6/2024,2399.2,7/7/2024, Shipped
