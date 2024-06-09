@@ -130,7 +130,8 @@ BEGIN
     DROP TABLE TempFile1;
     DROP TABLE TempFile2;
 
-END;
+END
+
 $$ LANGUAGE plpgsql;
 
 -- Call the function
