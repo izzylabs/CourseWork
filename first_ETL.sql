@@ -1,13 +1,9 @@
-CREATE OR REPLACE FUNCTION load_data_from_csv(
+CREATE FUNCTION load_data_from_csv(
     file1_path TEXT,
     file2_path TEXT
 )
 RETURNS VOID AS $$
 BEGIN
-    -- Drop temporary tables if they already exist
-    DROP TABLE IF EXISTS TempFile1;
-    DROP TABLE IF EXISTS TempFile2;
-
     -- Create temporary tables
     CREATE TEMP TABLE TempFile1 (
         category_name TEXT,
@@ -40,9 +36,8 @@ BEGIN
     );
     
     -- Load data into temporary tables
- 	EXECUTE format('COPY TempFile1 FROM %L DELIMITER '','' CSV HEADER ENCODING ''LATIN1''', file1_path);
-    EXECUTE format('COPY TempFile2 FROM %L DELIMITER '','' CSV HEADER ENCODING ''LATIN1''', file2_path);
-
+    EXECUTE FORMAT('COPY TempTable1 (category_name, category_description, product_name, product_description, price, stock_quantity, inventory_quantity, location, order_date, total_amount, shipment_date, status) FROM %L DELIMITER '','' CSV HEADER', file1_path);
+	EXECUTE FORMAT('COPY TempTable2 (first_name, last_name, email, address, supplier_name, contact_info, country, employee_name, employee_surname, role, employee_contact_info) FROM %L DELIMITER '','' CSV HEADER', file2_path);
 
     -- Insert into Categories
     INSERT INTO Categories (Category_Name, Category_Description)
@@ -102,7 +97,7 @@ BEGIN
         c.CustomerID, 
         p.ProductID, 
         CAST(order_date AS DATE),
-        CAST(order_total_amount AS DECIMAL(10, 2))
+        CAST(total_amount AS DECIMAL(10, 2))
     FROM TempFile1 t1
     JOIN Products p ON t1.product_name = p.Product_Name
     CROSS JOIN Customers c
@@ -131,11 +126,11 @@ BEGIN
     DROP TABLE TempFile2;
 
 END
-
 $$ LANGUAGE plpgsql;
 
 -- Call the function
-SELECT load_data_from_csv('C:/Users/dasha/Documents/Epam/Databases/CourseWork/file1.csv', 'C:/Users/dasha/Documents/Epam/Databases/CourseWork/file2.csv');
+SELECT * FROM load_data_from_csv('C:/Users/dasha/Documents/Epam/Databases/CourseWork/file1.csv', 'C:/Users/dasha/Documents/Epam/Databases/CourseWork/file2.csv');
+
 
 SELECT * FROM categories
 SELECT * FROM customers
