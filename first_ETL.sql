@@ -36,8 +36,8 @@ BEGIN
     );
     
     -- Load data into temporary tables
-    EXECUTE FORMAT('COPY TempTable1 (category_name, category_description, product_name, product_description, price, stock_quantity, inventory_quantity, location, order_date, total_amount, shipment_date, status) FROM %L DELIMITER '','' CSV HEADER', file1_path);
-	EXECUTE FORMAT('COPY TempTable2 (first_name, last_name, email, address, supplier_name, contact_info, country, employee_name, employee_surname, role, employee_contact_info) FROM %L DELIMITER '','' CSV HEADER', file2_path);
+    EXECUTE FORMAT('COPY TempFile1 (category_name, category_description, product_name, product_description, price, stock_quantity, inventory_quantity, location, order_date, total_amount, shipment_date, status) FROM %L DELIMITER '','' CSV HEADER', file1_path);
+	EXECUTE FORMAT('COPY TempFile2 (first_name, last_name, email, address, supplier_name, contact_info, country, employee_name, employee_surname, role, employee_contact_info) FROM %L DELIMITER '','' CSV HEADER', file2_path);
 
     -- Insert into Categories
     INSERT INTO Categories (Category_Name, Category_Description)
@@ -138,5 +138,5 @@ SELECT * FROM employees
 SELECT * FROM inventory
 SELECT * FROM orders 
 SELECT * FROM products
-SELECT  * FROM shipments
-SELECT  * FROM suppliers
+SELECT * FROM shipments
+SELECT * FROM suppliers
